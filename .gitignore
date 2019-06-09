@@ -40,3 +40,4 @@ local_settings.py
 .env
 db.sqlite3
 python-bac/bac/db.sqlite3
+.vagrant
